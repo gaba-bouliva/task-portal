@@ -7,6 +7,9 @@ body{
   background-color: #A0ECB1;
 }
 
+.d-btn {
+  cursor: pointer;
+}
 
 
 .d-success{

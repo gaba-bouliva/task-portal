@@ -58,7 +58,7 @@ const task = ({name, description, status}: Props) => {
             <p className='col-9'>{taskDescription}</p>
           </span>
           { taskDescription.length <= 0 ? 
-            <span className={'p-2 rounded d-'+taskConfig.bgColor}>
+            <span className={'d-btn p-2 rounded d-'+taskConfig.bgColor}>
               <img src={'/'+taskConfig.statusIcon} className='d-flex flex-row-reverse' alt="" />
             </span> : ""
           }
