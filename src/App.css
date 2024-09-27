@@ -2,3 +2,41 @@ body{
   font-size: 1rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.l-success{
+  background-color: #A0ECB1;
+}
+
+
+
+.d-success{
+  background-color: #32D657;
+}
+
+.l-danger{
+  background-color: #F7D4D3
+}
+
+.d-danger{
+  background-color: #DD524C;
+}
+
+.l-secondary{
+  background-color: #E3E8EF;
+}
+
+.d-secondary{
+  background-color: #97A3B6;
+}
+
+.l-warning{
+  background-color: #F5D565;
+}
+
+.x-l-warning{
+  background-color: #F5E8D5;
+}
+
+.d-warning{
+  background-color: #E9A23B
+}
